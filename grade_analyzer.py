@@ -1,3 +1,7 @@
+#Name : Radhika
+#Roll No :iitp_aimltn_2602483
+#Assignment : grade analyzer
+
 # --- TASK 1: Calculate Averages ---
 def process_scores(students):
     averages = {}
